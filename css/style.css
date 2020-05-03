@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+}
+h2.introduction {
+  background-color: blue;
+  text-align: center;
+}
+p.introduction {
+  background-color: red;
+}
+img.introduction {
+  align-items: center;
+}
